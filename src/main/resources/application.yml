@@ -1,1 +1,2 @@
 spring.application.name=spring-state-machine
+spring.jpa.show-sql=true
